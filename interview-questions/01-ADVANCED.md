@@ -27,3 +27,6 @@
 
 ### 10. **Question:** How can AWS AppConfig be used to manage application configurations in DevOps pipelines?
 **Answer:** AWS AppConfig is a service that allows you to manage application configurations and feature flags. In DevOps, you can use AppConfig to separate configuration from code, enable dynamic updates, and control feature releases. This improves deployment flexibility, reduces risk, and supports A/B testing.
+
+
+#testing something in this.
